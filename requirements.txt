@@ -1,0 +1,9 @@
+Python version==3.12.3
+matplotlib==3.10.0
+torch==2.5.1+cu124
+Pillow==11.1.0
+numpy==2.2.2
+tqdm==4.67.1
+pytorchcv==0.0.73
+scikit-learn==1.6.1
+seaborn==0.13.2
